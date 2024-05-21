@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 curl -s https://ohmyposh.dev/install.sh && bash -s
 oh-my-posh font install
 oh-my-posh get shell
