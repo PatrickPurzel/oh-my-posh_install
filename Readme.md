@@ -1,0 +1,1 @@
+wget -O - https://github.com/PatrickPurzel/oh-my-posh_install/blob/main/linux/install.sh | sudo bash
